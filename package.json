@@ -41,7 +41,7 @@
     "test:unit": "mocha './test/unit/**/*.spec.js' --require './test/mocha.conf.js'"
   },
   "dependencies": {
-    "amqp-as-promised": "^4.1.0",
+    "amqp-as-promised": "^5.0.0",
     "amqplib": "^0.5.1",
     "amqplib-sugar": "sammler/amqplib-sugar",
     "bluebird": "^3.4.6",
